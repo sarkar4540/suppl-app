@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a web based GUI front-end for Aadhaar enabled Payment Systems (AePS). It includes various features such as:
+This project is a web based GUI front-end for Suppl System by [Sarkar Nigam](http://sarkarnigam.com), utilising Aadhaar enabled Payment Systems (AePS). It includes various features such as:
 
 - License available for commercial purpose.
 - Easy integration with any AePS provider (using server).
