@@ -8,7 +8,7 @@ This project is a web based GUI front-end for Suppl System by [Sarkar Nigam](htt
 - Easy integration with any AePS provider (using server).
 - Multi-level distributor.
 - Set commission/charges to each user variably.
-- Retailers can be set up, for carrying our transactions.
+- Retailers can be set up, for carrying our transactions, balance enquiry and Mini ATM.
 - Wallet, recharge and profile set up.
 - Web-based, tested using Morpho and Mantra Biometric RD service.
 
