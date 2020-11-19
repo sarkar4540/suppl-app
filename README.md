@@ -14,11 +14,19 @@ This project is a web based GUI front-end for Suppl System by [Sarkar Nigam](htt
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Integration Instructions
+## Integration
 
-Please check [connect.js](./src/connect.js), in line number `8`, replace "https://server.url/goes/here" with the URL where the server is hosted. 
+Please check [connect.js](./src/connect.js), in line number `8`, replace "https://server.url/goes/here" with the URL where the Suppl System is hosted. 
 
+## Running
 
+     yarn install
+     yarn start
+
+## Building
+
+     yarn build
+ 
 ## Dependencies
 
 - [@ckeditor/ckeditor5-build-classic](https://ghub.io/@ckeditor/ckeditor5-build-classic): The classic editor build of CKEditor 5 – the best browser-based rich text editor.
