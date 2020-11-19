@@ -1,4 +1,4 @@
-#Suppl App
+# Suppl App
 
 ## Introduction
 
@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Integration Instructions
 
-Please check [connect.js](./src/connect.js), in line number 8, replace "https://server.url/goes/here" with the URL where the server is hosted. 
+Please check [connect.js](./src/connect.js), in line number `8`, replace "https://server.url/goes/here" with the URL where the server is hosted. 
 
 ## Available Scripts
 
